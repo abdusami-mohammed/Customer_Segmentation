@@ -16,7 +16,7 @@ Through these methodologies, the project aims to provide a comprehensive underst
 * With this data, businesses can create more targeted and personalized marketing strategies.
 
 Sneak Peek into the RFM Segmentation Technique.
-### For the complete code, Click here -> [SQL QUERY](https://github.com/arjunan-k/Customer_Segmentation/blob/main/Customer_Segmentation.md)
+### For the complete code, Click here -> [SQL QUERY](https://github.com/abdusami-mohammed/Customer_Segmentation/blob/e34060442a3411942d82e14137a2d0331095c54f/Customer%20Segmentation%20(RFM%20and%20Behavioural).sql)
 ```sql
 RFM_Score AS (
 	SELECT R.customername, R.Recency, F.Frequency, M.Monetary,
@@ -96,7 +96,7 @@ In this RFM analysis, customers were divided into six distinct categories: Loyal
 * Enhanced Satisfaction.
 
 Sneak Peek into the Behavioural Segmentation Technique.
-### For the complete code, Click here -> [SQL QUERY](https://github.com/arjunan-k/Customer_Segmentation/blob/main/Customer_Segmentation.md)
+### For the complete code, Click here -> [SQL QUERY](https://github.com/abdusami-mohammed/Customer_Segmentation/blob/e34060442a3411942d82e14137a2d0331095c54f/Customer%20Segmentation%20(RFM%20and%20Behavioural).sql)
 ```sql
 SELECT customername, productline, Total_Sales,
 	CASE
