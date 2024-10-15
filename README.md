@@ -9,7 +9,7 @@ Through these methodologies, the project aims to provide a comprehensive underst
 
 ## [SQL QUERY](https://github.com/abdusami-mohammed/Customer_Segmentation/blob/e34060442a3411942d82e14137a2d0331095c54f/Customer%20Segmentation%20(RFM%20and%20Behavioural).sql)
 ## RFM ANALYSIS
-![pic](https://github.com/arjunan-k/Customer_Segmentation/blob/main/Images/RFM.png?raw=true)
+![pic](https://github.com/abdusami-mohammed/Customer_Segmentation/blob/5509405c69b83a59de39888eeeb01ddcb7c19a65/Images/RFM%20Image.png?raw=true)
 * RFM (*Recency, Frequency, Monetary*) is a powerful method used by businesses to segment customers
 * Based on how recently they purchased(*Recency*), how often they buy(*Frequency*), and how much they spend(*Monetary*).
 * This approach helps identify loyal customers, re-engage those slipping away, and focus efforts on high-value customers.
