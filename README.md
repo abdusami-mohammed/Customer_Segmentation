@@ -7,7 +7,7 @@ This SQL project focuses on advanced customer segmentation techniques to derive 
 
 Through these methodologies, the project aims to provide a comprehensive understanding of customer value and preferences, ultimately aiding businesses in improving customer retention and maximizing sales opportunities.
 
-## [SQL QUERY](https://github.com/arjunan-k/Customer_Segmentation/blob/main/Customer_Segmentation.md)
+## [SQL QUERY](https://github.com/abdusami-mohammed/Customer_Segmentation/blob/e34060442a3411942d82e14137a2d0331095c54f/Customer%20Segmentation%20(RFM%20and%20Behavioural).sql)
 ## RFM ANALYSIS
 ![pic](https://github.com/arjunan-k/Customer_Segmentation/blob/main/Images/RFM.png?raw=true)
 * RFM (*Recency, Frequency, Monetary*) is a powerful method used by businesses to segment customers
