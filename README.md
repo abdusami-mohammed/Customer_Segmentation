@@ -88,6 +88,7 @@ In this RFM analysis, customers were divided into six distinct categories: Loyal
     * Provide priority delivery to any location, with personalized customer service.
 
 
+![pic](https://github.com/abdusami-mohammed/Customer_Segmentation/blob/5509405c69b83a59de39888eeeb01ddcb7c19a65/Images/Behavioural%20segmentation%20image.avif?raw=true)
 ## Behavioral Segmentation
 * Customer Preferences: Focuses on customers' buying habits and product preferences.
 * Targeted Offerings: Helps businesses tailor promotions based on purchasing patterns.
