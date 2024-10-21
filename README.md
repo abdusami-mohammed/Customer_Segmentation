@@ -7,6 +7,8 @@ This SQL project focuses on advanced customer segmentation techniques to derive 
 
 Through these methodologies, the project aims to provide a comprehensive understanding of customer value and preferences, ultimately aiding businesses in improving customer retention and maximizing sales opportunities.
 
+[![Watch the demo video](https://github.com/abdusami-mohammed/Customer_Segmentation/blob/b5b65b530fc2bf9a4bb8593d1e34a5c323c1e6da/Images/Dashboard.png)](https://github.com/abdusami-mohammed/Customer_Segmentation/blob/b5b65b530fc2bf9a4bb8593d1e34a5c323c1e6da/Images/Customer_segment_Dashboard_vid.mp4)
+
 ## [SQL QUERY](https://github.com/abdusami-mohammed/Customer_Segmentation/blob/e34060442a3411942d82e14137a2d0331095c54f/Customer%20Segmentation%20(RFM%20and%20Behavioural).sql)
 ## RFM ANALYSIS
 ![pic](https://github.com/abdusami-mohammed/Customer_Segmentation/blob/5509405c69b83a59de39888eeeb01ddcb7c19a65/Images/RFM%20Image.png?raw=true)
